@@ -1,4 +1,7 @@
 ---
+title: Home-page
 ---
 
-# tonic-starter
+# my-theme
+
+**my-theme** *name pending* is a modern style theme for the technology of the future 
