@@ -1,5 +1,6 @@
 ---
 title: Home-page
+layout: default
 ---
 
 # my-theme
